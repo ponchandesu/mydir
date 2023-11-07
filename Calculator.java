@@ -1,4 +1,4 @@
-//Kadai06_2.java 2023年10月31 Ryusei Rikiishi
+//Calculator06_2.java 2023年10月31 Ryusei Rikiishi
 import javafx.application.*;
 import javafx.stage.*;
 import javafx.scene.*;
@@ -9,7 +9,7 @@ import javafx.geometry.*;
 import javafx.event.*;
 import java.text.*;
 
-public class Kadai06_2 extends Application
+public class Calculator extends Application
 {
     private TextField tf;
     private Button[][] bt = new Button[4][5];
